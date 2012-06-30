@@ -1,5 +1,8 @@
 ProgressCursor
 ==============
+Example
+-------
+![Alt text](http://www.codeproject.com/KB/progress/progresscursor/cursor.png)
 
 Using the code
 --------------
