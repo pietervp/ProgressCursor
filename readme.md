@@ -1,3 +1,5 @@
+[![endorse](http://api.coderwall.com/pietervp/endorsecount.png)](http://coderwall.com/pietervp)
+
 ProgressCursor
 ==============
 Example
